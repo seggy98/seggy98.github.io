@@ -3,3 +3,8 @@ body {
     background: rgb(178, 209, 250);
     text-align: center;
 }
+aboutMe {
+    margin: 0;
+    background-color: blueviolet;
+    text-align: center;
+}
